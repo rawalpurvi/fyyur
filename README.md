@@ -1,5 +1,4 @@
-Udacity Full Stack Web Developer Nanodegree
-This is the public repository for Udacity's Full-Stack Nanodegree program. Here, you can find starter-code the following projects:
+Udacity Full Stack Web Developer Nanodegree Projects. Here, you can find starter-code the following projects in projects folder:
 
 * 01_fyyur/starter_code - SQL and Data Modeling for the Web
 * 02_trivia_api/starter - API Development and Documentation
